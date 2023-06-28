@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+}
+
+.colorbox {
+  background-color: red;
+  min-width: 15rem;
+  min-height: 15rem;
+
+}
+
+.buttons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
